@@ -26,6 +26,5 @@ public class App
         System.out.format("Addition: %d + %d = %d\n", firstNumber, secondNumber, op.addition(firstNumber, secondNumber));
         System.out.format("Substraction: %d + %d = %d\n", firstNumber, secondNumber, op.substraction(firstNumber, secondNumber));
         System.out.format("Multiplication: %d + %d = %d\n", firstNumber, secondNumber, op.multiplication(firstNumber, secondNumber));
-        // Made a change
     }
 }
