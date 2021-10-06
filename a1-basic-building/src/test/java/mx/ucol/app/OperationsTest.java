@@ -19,7 +19,7 @@ public class OperationsTest {
     }
 
     /**
-     * Should return the correct substraction of two numbers
+     * Should return the correct substraction of two numbers.
      */
     @Test
     public void substractionTest() {
